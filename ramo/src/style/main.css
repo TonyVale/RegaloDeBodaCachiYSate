@@ -1,0 +1,15 @@
+.main{
+    background-color:  whitesmoke ;
+}
+
+.main-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flores{
+    background-image: url("../img/Mainimage.png");
+    background-size: cover;
+    min-height: 610px;
+}

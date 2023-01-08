@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.header{
+    font-family: 'Great Vibes', cursive;
+    display: flex;
+    font-size:50px;
+    width: calc(100vw);
+    height: calc(10vh);
+    align-items: center;
+    justify-content: center;
+    background:  #fbdcdc;
+    color: #3e4f2f ;
+}
+
+.header-main{
+    margin: 10px;
+}
+
+.header-heart-icon{
+    
+    font-size:large;
+    color: #3e4f2f ;
+}
