@@ -11,7 +11,7 @@ export default function Main(){
             <Row className=" flex-xl-row-reverse justify-content-md-center">
                 <Col xs="12" xl="6" className="flores"></Col>
                 <Col xs="12" xl="5" className="main-text">
-                   <div><p>Aquí yace inmortalizado en la eternidad del internet un recuerdo de la unión entre Cahí y Saté.</p>
+                   <div><p>Aquí yace inmortalizado en la eternidad del internet un recuerdo de la unión entre Cachi y Sate.</p>
                    <p>Que sus nombres permanezcan juntos en la historia hasta que el internet desaparezca.</p>
                    </div>
                    

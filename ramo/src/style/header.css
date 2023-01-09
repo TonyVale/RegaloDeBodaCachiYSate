@@ -3,13 +3,19 @@
 .header{
     font-family: 'Great Vibes', cursive;
     display: flex;
-    font-size:100px;
+    font-size:80px;
     width: calc(100vw);
     height: calc(35vh);
     align-items: center;
     justify-content: center;
     background:  #fbdcdc;
     color: #3e4f2f ;
+}
+
+@media only screen and (max-width: 600px){
+    .header{
+        font-size:50px;
+    }
 }
 
 .header-main{
@@ -20,4 +26,8 @@
     
     font-size:large;
     color: #3e4f2f ;
+}
+
+@media  {
+    
 }
